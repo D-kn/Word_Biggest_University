@@ -1,3 +1,3 @@
-# Word_Biggest_University Full Responsive Multi Page Website Designed with HTML and CSS
+# A simple Multi Page Website Designed with HTML and CSS
 
-### See the website with this <a https://D-kn.github.oi/Word_Biggest_University>link</a> 
+### See the website with this https://D-kn.github.oi/Word_Biggest_University 
